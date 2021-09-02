@@ -1,5 +1,4 @@
 import React from 'react';
-import AddUser from "../Users/AddUser";
 import classes from "./Card.module.css";
 
 const Card = props => {
